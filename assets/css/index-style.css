@@ -104,7 +104,7 @@ a {
 }
 
 button {
-    cursor: none;
+    cursor: pointer;
     border: none;
     outline: none;
 }
@@ -284,7 +284,6 @@ img {
     font-size: 1.24rem;
     padding: 8px 12px 8px 12px;
     border-radius: 5rem;
-    cursor: none;
   }
 
 /* Active link */
@@ -365,7 +364,6 @@ img {
 .home__social,
 .home__scroll {
     position: absolute;
-    cursor: none;
 }
 
 .home__social {
@@ -429,7 +427,6 @@ img {
     font-weight: var(--font-medium);
     transition: 0.4s;
     box-shadow:  0 0 20px rgba(80, 182, 255, 0.432); /* Add the box shadow */
-    cursor: none;
   }
   
   .button:hover {
